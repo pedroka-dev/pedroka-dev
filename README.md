@@ -107,5 +107,5 @@
   
   
 <a href="https://www.youtube.com/watch?v=7uiv6tKtoKg">
-  <img width="100%" height="200em" src="https://acegif.com/wp-content/gif/outerspace-52.gif"/>
+  <img width="100%" height="150em" src="https://acegif.com/wp-content/gif/outerspace-52.gif"/>
 </a>
