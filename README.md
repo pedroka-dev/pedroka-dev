@@ -90,6 +90,6 @@
    <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 </div>
   
-<a href="https://www.youtube.com/watch?v=7uiv6tKtoKg">
+<a href="https://www.youtube.com/watch?v=7uiv6tKtoKg" target="_blank" rel="noreferrer">
 <img width="100%" height="150em" src="https://acegif.com/wp-content/gif/outerspace-52.gif"/>
 </a>
