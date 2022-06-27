@@ -14,9 +14,8 @@
    <img height="40em" src="https://logopng.com.br/logos/linkedin-83.png"/> 
    </a>
 </div>
-  
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
-  
+ 
+--- 
 <div>
    <h1>My Github Content</h1>
    <a href="https://github.com/pedro-ca">
@@ -24,8 +23,11 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-ca&show_icons=true&theme=synthwave" />
    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=pedro-ca&theme=dracula" />
    </a>
-   <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
-   <div>
+</div>
+
+---
+
+<div>
       <h1>Language and Tools</h1>
       <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/> 
@@ -85,10 +87,9 @@
       <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> 
       </a> 
-   </div>
+  </div>
   
    <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
-</div>
   
 <a href="https://www.youtube.com/watch?v=7uiv6tKtoKg" target="_blank" rel="noreferrer">
 <img width="100%" height="150em" src="https://acegif.com/wp-content/gif/outerspace-52.gif"/>
