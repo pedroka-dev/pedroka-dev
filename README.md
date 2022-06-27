@@ -4,7 +4,7 @@
   
 <div>
    <h1>About me</h1>
-   <h3>⚜️ I'm Pedro H. P. Rosario ⚜️</h3>
+   <h3>⚜️ My name is Pedro H. P. Rosario. Nice to meet you! ⚜️</h3>
    <h3>🚀 Junior Developer Analyst at NDD Tech 🚀</h3>
    <h3>📚 Computer Science Student at IFSC Campus Lages 📚</h3>
    <h3>👨‍💻 Coding professionally, but also for fun! 👨‍💻</h3>
