@@ -21,7 +21,6 @@
    <a href="https://github.com/pedro-ca">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-ca&layout=compact&theme=synthwave" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-ca&show_icons=true&theme=synthwave" />
-   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=pedro-ca&theme=dracula" />
    </a>
 </div>
 
