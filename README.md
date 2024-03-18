@@ -4,12 +4,12 @@
   
 <div>
    <h1>About me</h1>
-   <h3>⚜️ My name is Pedro H. P. Rosario. Nice to meet you! ⚜️</h3>
-   <h3>🚀 Junior Developer Analyst at NDD Tech 🚀</h3>
-   <h3>📚 Computer Science Student at IFSC Campus Lages 📚</h3>
-   <h3>👨‍💻 Coding professionally, but also for fun! 👨‍💻</h3>
+   <h3>⚜️ Hi, my name is Pedro H. P. Rosario ⚜️</h3>
+   <h3>👨‍💻 Full-stack Developer 👨‍💻</h3>
+     <h3>📚 Bachelor at Computer Science 📚</h3>
+   <h3>👾 Future Game Developek 👾</h3>
    <h3>🏛 Philosophy, History and Astronomy enthusiast 🏛</h3>
-   <h3>👾 Gamer and Geek 👾</h3>
+  
    <a href="https://www.linkedin.com/in/pedro-henric-p-rosario/" target="_blank" rel="noreferrer"> 
    <img height="40em" src="https://logopng.com.br/logos/linkedin-83.png"/> 
    </a>
