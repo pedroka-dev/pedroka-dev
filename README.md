@@ -6,7 +6,7 @@
    <h1>About me</h1>
    <h3>⚜️ Hi, my name is Pedro H. P. Rosario ⚜️</h3>
    <h3>👨‍💻 Full-stack Developer 👨‍💻</h3>
-     <h3>📚 Bachelor at Computer Science 📚</h3>
+     <h3>📚 Bachelor's Degree in Computer Science 📚</h3>
    <h3>👾 Future Game Developek 👾</h3>
    <h3>🏛 Philosophy, History and Astronomy enthusiast 🏛</h3>
   
