@@ -13,7 +13,7 @@
    <img height="40em" src="https://logopng.com.br/logos/linkedin-83.png"/> 
    </a>
    
-   <a href="ttps://pedrokadev.itch.io/" target="_blank" rel="noreferrer"> 
+   <a href="https://pedrokadev.itch.io/" target="_blank" rel="noreferrer"> 
    <img height="40em" src="https://static.itch.io/images/app-icon.svg"/> 
    </a>
 </div>
@@ -57,6 +57,9 @@
 
   <div>
       <h1>Frameworks and Other Technologies</h1></h1>
+      <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/>   
+      </a> 
       <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/> 
       </a> 
@@ -79,9 +82,6 @@
       </a> 
       </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> 
-      </a> 
-      <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/>   
       </a> 
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
