@@ -21,7 +21,7 @@
 --- 
 <div>
    <h1>My Github Content</h1>
-   <a href="https://github.com/pedro-ca">
+   <a href="https://github.com/pedroka-dev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-ca&layout=compact&theme=synthwave" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-ca&show_icons=true&theme=synthwave" />
    </a>
