@@ -5,9 +5,9 @@
 <div>
    <h1>About me</h1>
    <h3>⚜️ Hi, my name is Pedro H. P. Rosario ⚜️</h3>
-   <h3>👨‍💻 Full-stack Developer 👨‍💻</h3>
-     <h3>📚 Bachelor's Degree in Computer Science 📚</h3>
-   <h3>👾 Future Game Developer 👾</h3>
+   <h3>👨‍💻 Back-end C# Developer 👨‍💻</h3>
+   <h3>👾 Unity Game Developer 👾</h3>
+   <h3>📚 Bachelor's Degree in Computer Science 📚</h3>
   
    <a href="https://www.linkedin.com/in/pedro-henric-p-rosario/" target="_blank" rel="noreferrer"> 
    <img height="40em" src="https://logopng.com.br/logos/linkedin-83.png"/> 
